@@ -1,0 +1,21 @@
+Big Query Integration:
+https://www.rudderstack.com/guides/how-to-access-and-query-your-bigquery-data-using-python-and-r/
+
+1. Create Google Service Account
+2. Download Google Service Account
+3. Install Packages
+	pip install --upgrade google-api-python-client
+	pip install --upgrade google-cloud-bigquery < 2.34.1
+
+Query:
+https://cloud.google.com/bigquery/docs/querying-wildcard-tables
+
+Run PY File
+https://stackoverflow.com/questions/42163470/how-to-execute-a-py-file-from-a-ipynb-file-on-the-jupyter-notebook
+
+File paths
+https://stackoverflow.com/questions/7591240/what-does-dot-slash-refer-to-in-terms-of-an-html-file-path-location
+
+Questions:
+Data Dictionary for Real Estate Dataset
+What is PH property_type
