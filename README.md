@@ -2,7 +2,6 @@
 Evaluating the real property listings to identify  potential advertisement boosting package for  Properati users.<br>
 
 
-├── Config                                                # Config Files<br>
 ├── Deliverables                                          # Project Files<br>
 │   ├── Executive Presentation.pptx                       # Executive Summary and detailed findings on the project<br>
 │   ├── Interactive insights Dashboard.twbx               # Tableu Dashboard<br>
